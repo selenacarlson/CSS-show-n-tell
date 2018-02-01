@@ -1,0 +1,25 @@
+a {
+  text-decoration-line: underline;
+  text-decoration-style: dashed;
+  text-decoration-color: orange;
+}
+
+.dotted {
+  text-decoration: underline overline dotted green;
+}
+
+.through {
+  text-decoration: line-through;
+  color: red;
+}
+
+.wavy {
+  text-decoration: underline wavy violet;
+}
+
+body {
+  text-align: center;
+  font-family: arial;
+  font-weight: bold;
+  font-size: 20pt;
+}
